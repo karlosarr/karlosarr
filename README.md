@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Hola 👋
+
+My name is Carlos, I'm from México and I'm an SRE.
+
+<!--* Currently working for [@hyphametrics](https://www.hyphametrics.com/) as a Staff SRE-->
+
+# Skills
+
+* Using Kubernetes in Production since 2020
+* Google Cloud, Azure, Jenkins, Azure DevOps  :) 
+* Some NodeJS coding
