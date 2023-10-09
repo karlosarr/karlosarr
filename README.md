@@ -25,3 +25,11 @@ My name is Carlos, I'm from México and I'm an SRE.
 * Using Kubernetes in Production since 2020
 * Google Cloud, Azure, Jenkins, Azure DevOps  :) 
 * Some NodeJS coding
+
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karlosarr/)
+
+## Github Overview
+
+<img align="left" alt="Joel Alvarez Github Stats" src="https://github-readme-stats-seven-beryl-28.vercel.app/api?username=jeresoftx&show_icons=true&theme=dark" /> &nbsp;
+[![Top Langs](https://github-readme-stats-seven-beryl-28.vercel.app/api/top-langs/?username=karlosarr&theme=dark)](stats)
