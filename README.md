@@ -31,5 +31,5 @@ My name is Carlos, I'm from México and I'm an SRE.
 
 ## Github Overview
 
-<img align="left" alt="Joel Alvarez Github Stats" src="https://github-readme-stats-seven-beryl-28.vercel.app/api?username=karlosarr&show_icons=true&theme=dark" /> &nbsp;
+<img align="left" alt="Carlos Ruiz Github Stats" src="https://github-readme-stats-seven-beryl-28.vercel.app/api?username=karlosarr&show_icons=true&theme=dark" /> &nbsp;
 [![Top Langs](https://github-readme-stats-seven-beryl-28.vercel.app/api/top-langs/?username=karlosarr&theme=dark)](stats)
