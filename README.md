@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # 👋 ¡Hola! Soy Carlos Ruiz
 
-<img src="https://avatars.githubusercontent.com/u/your-user-id?v=4" width="100" align="right" alt="Carlos Ruiz Avatar" />
+<img src="https://avatars.githubusercontent.com/u/24909024?v=4" width="100" align="right" alt="Carlos Ruiz Avatar" />
 
 🌎 **Desde México | Staff SRE | Cloud Enthusiast**
 
@@ -74,7 +74,6 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado de la tecnología, especiali
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karlosarr/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:karlosarr@gmail.com)
 
 ---
 
