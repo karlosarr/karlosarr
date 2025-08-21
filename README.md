@@ -47,6 +47,7 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado de la tecnología, especiali
 ## 📚 Proyectos destacados
 
 - [HyphaMetrics SRE Automation](https://www.hyphametrics.com/): Automatización de tareas SRE y gestión de infraestructura.
+- [Coordenada Móvil SRE Automation](https://coordenadamovil.com/): Automatización de despliegue de APPs de iOS y Android, y gestión de infraestructura.
 - [Personal DevOps Toolkit](https://github.com/karlosarr/devops-toolkit): Herramientas para facilitar la gestión de pipelines y despliegues.
 
 ---
